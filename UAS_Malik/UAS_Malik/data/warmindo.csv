@@ -1,0 +1,10 @@
+"id", "Warkop"    , "Harga_Minuman", "Harga_Makanan", "tahun_berdiri", "jumlah_menu", "kode"
+1   , Warkop Uti  , 8000           , 12000          , 2022           , 33           , A1
+2   , Warkop Sari , 8000           , 11000          , 2022           , 29           , A2
+3   , Warkop 99   , 8000           , 10000          , 2022           , 28           , A3
+4   , Warkop 86   , 8000           , 10000          , 2022           , 30           , A4
+5   , Warkop Sueb , 8000           , 10000          , 2022           , 30           , A5
+6   , Warkop Sami , 8000           , 10000          , 2023           , 30           , A6
+8   , Warkop Najib, 5000           , 10000          , 2023           , 30           , A7
+9   , Warkop Isti , 5000           , 9000           , 2023           , 30           , A8
+10  , Warkop Bundo, 5000           , 9000           , 2023           , 30           , A9
