@@ -1,7 +1,7 @@
 # Tugas UAS SPK
-Nama : Ibnu Saputra <br>
-NIM : 201011400588 <br>
-Kelas : 07-TPLP-013 <br>
+Nama : Muhamad Malik T <br>
+NIM : 201011402207 <br>
+Kelas : 07-TPLP-012 <br>
 
 ## Install requirements
 ```pip install -r requirements.txt```
